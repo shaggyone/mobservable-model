@@ -18,6 +18,6 @@ module.exports = {
     output: {
         libraryTarget: 'umd',
         library: 'mobservable-model',
-        filename: 'lib/index.js'
+        filename: 'lib/index.bundle.js'
     }
 }
